@@ -1,6 +1,6 @@
-schemaVersion: v1.1
+schemaVersion: "1.1"
 proxy:
     type: REST
-    schemaFilePath: ""
+    schemaFilePath: pet-store.yaml
     thumbnailPath: ""
     docPath: ""
