@@ -1,7 +1,0 @@
-schemaVersion: "1.1"
-endpoints:
-    - hello: "yes"
-    - test: "yes"
-proxy:
-    type: REST
-    schemaFilePath: pet-store.yaml
